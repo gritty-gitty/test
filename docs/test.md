@@ -1,4 +1,7 @@
 # Title
+## Heading2
+### Heading3
+#### Heading4
 nix
 
 ```diff
