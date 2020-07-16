@@ -2,7 +2,7 @@
 ## Heading2
 ### Heading3
 #### Heading4
-nix
+[relative link](relative)
 
 ```diff
 + this text is *highlighted* in **green**
