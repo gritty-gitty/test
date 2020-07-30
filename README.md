@@ -1,7 +1,7 @@
 # test
 For testing GitHub
 
-[Easy Linking](relative)
+[Easy Linking](https://gritty-gitty.github.io/test/relative)
 
 ```diff
 + this text is *highlighted* in **green**
