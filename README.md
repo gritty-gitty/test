@@ -11,3 +11,15 @@ For testing GitHub
 + It’s OK
 - This is not OK
 ```
+
+```diff
+--- /home/ll/Labortablo/Title | test.desktop
++++ /home/ll/Labortablo/Title | test (copy).desktop
+@@ -1,5 +1,6 @@
+ [Desktop Entry]
+ Encoding=UTF-8
++Comment=Who cares about falted lines
+ Name=Link to Title | test
+ Type=Link
+ URL=https://gritty-gitty.github.io/test/test
+```
