@@ -24,3 +24,12 @@ For testing GitHub
  Type=Link
  URL=https://gritty-gitty.github.io/test/test
 ```
+
+```bash
+#!/bin/bash
+# ~/bin/bifi	(PG) R0907
+# BIOS or UEFI boot test
+# From <https://askubuntu.com/questions/162564/how-can-i-tell-if-my-system-was-booted-as-efi-uefi-or-bios#162896>
+
+[ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
+```
