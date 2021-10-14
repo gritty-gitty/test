@@ -3,6 +3,7 @@
 ### Heading3
 #### Heading4
 [relative link](relative)
+[upward link](../markdowntest)
 
 ```diff
 + this text is *highlighted* in **green**
